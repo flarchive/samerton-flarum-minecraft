@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of samerton/flarum-minecraft.** Not for installation: use [Packagist](https://packagist.org/packages/samerton/flarum-minecraft) or the [upstream repository](https://github.com/samerton/flarum-minecraft).
 
-**0** versions archived · Latest: [`v1.0.5`](https://github.com/flarchive/samerton-flarum-minecraft/tree/archive/v1.0.5) · Flarum: `^1.0`
+**6** versions archived · Latest: [`v1.0.5`](https://github.com/flarchive/samerton-flarum-minecraft/tree/archive/v1.0.5) · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.4` | 2021-06-23 | `^1.0` | [Browse](https://github.com/flarchive/samerton-flarum-minecraft/tree/archive/v1.0.4) |
+| `v1.0.0` | 2021-01-02 | `>=0.1.0-beta.15 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/samerton-flarum-minecraft/tree/archive/v1.0.0) |
+| `v1.0.1` | 2021-01-02 | `>=0.1.0-beta.15 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/samerton-flarum-minecraft/tree/archive/v1.0.1) |
+| `v1.0.2` | 2021-01-03 | `>=0.1.0-beta.15 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/samerton-flarum-minecraft/tree/archive/v1.0.2) |
+| `v1.0.3` | 2021-04-09 | `>=0.1.0-beta.16 <0.1.0-beta.17` | [Browse](https://github.com/flarchive/samerton-flarum-minecraft/tree/archive/v1.0.3) |
+| `v1.0.5` | 2021-07-27 | `^1.0` | [Browse](https://github.com/flarchive/samerton-flarum-minecraft/tree/archive/v1.0.5) |
 
 Catalog entry: [packages/samerton-flarum-minecraft.json](https://github.com/flarchive/archive-index/blob/main/packages/samerton-flarum-minecraft.json)
 
